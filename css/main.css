@@ -133,36 +133,25 @@ body .text-color2
 	text-align: left
 }
 
+
 .section3
 {
-	background: url(https://stormandsky.com/gif/t2.gif) rgba(0,0,0,1);
-    background-repeat:no-repeat;
+	background: url(../img/gif1.gif) rgba(0,0,0,1);
+	box-shadow: inset 0 0 0 600px rgba(0 , 0, 0, 0.90);
 	background-attachment:fixed;
-	background-size: 200% 100%;
-    background-position: 70% 0%;
+	background-position:50% 50%;
+	padding-top: 0px;
+	padding-bottom: 0px;
 }
 
 .section3 .container
 {
-	
+
 }
 
 .section3 img.img-responsive
 {
 	margin: 0 auto;
-}
-
-.section3 h3
-{
-	color: #848484;
-	font-weight: 400;
-}
-
-.section3 p
-{
-	color: #848484;
-	font-weight: 300;
-	font-size: 18px;
 }
 
 .section4
@@ -177,10 +166,10 @@ body .text-color2
 
 .section5
 {
-	background: url(../img/workspace-sub.jpg) rgba(213,30,155, 0.6);
-	background-repeat:no-repeat;
+	background: url(../img/gif1.gif) rgba(0,0,0,1);
+	box-shadow: inset 0 0 0 600px rgba(0 , 0, 0, 0.90);
 	background-attachment:fixed;
-	background-position:50% 0%;
+	background-position:50% 50%;
 	padding-top: 0px;
 	padding-bottom: 0px;
 }
@@ -405,26 +394,6 @@ body .text-color2
 {
 	/*border-bottom:5px solid #C54D8D;*/
 	cursor:pointer;
-}
-
-.sm-facebook
-{
-	background-position:0px -32px;
-}
-
-.sm-linkedin
-{
-	background-position:0px -64px;
-}
-
-.sm-gplus
-{
-	background-position:0px -96px;
-}
-
-.sm-skype
-{
-	background-position:0px -128px;
 }
 /* end of contact section */
 
