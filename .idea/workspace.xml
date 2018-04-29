@@ -2,9 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6ef4fb46-9996-42d0-9a4a-467f8191e847" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/img/mainwallpaper.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/sm-sprite.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/workspace-sub.jpg" afterPath="" />
       <change beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
