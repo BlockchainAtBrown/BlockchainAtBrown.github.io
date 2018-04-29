@@ -86,7 +86,7 @@ body .text-color2
     background-size: 250px 250px;
     padding-top: 0px;
     padding-bottom: 0px;
-    animation: animatedBackground 40s linear infinite;
+    animation: animatedBackground 10s linear infinite;
 }
 
 .section1 .main-logo
