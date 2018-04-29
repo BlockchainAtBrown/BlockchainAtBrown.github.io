@@ -29,9 +29,9 @@ body .text-color2
 .top-nav
 {
 	position: fixed;
-	height: 70px;
-	padding-top: 10px;
-	padding-bottom: 10px;
+	height: 75px;
+	padding-top: 20px;
+	padding-bottom: 20px;
 	width:100%;
 	background-color: #f8f8f8;
 }
@@ -69,7 +69,7 @@ body .text-color2
 
 .content
 {
-	padding-top:70px;
+	padding-top:30px;
 }
 
 @keyframes animatedBackground {
@@ -80,7 +80,7 @@ body .text-color2
 .section1
 {
     background: url(../img/gif2.gif) rgba(0,0,0,1);
-    box-shadow: inset 0 0 0 600px rgba(0 , 0, 0, 0.75);
+    box-shadow: inset 0 0 0 800px rgba(0 , 0, 0, 0.60);
     background-attachment:fixed;
     background-position:50% 50%;
     background-size: 250px 250px;
@@ -146,12 +146,13 @@ body .text-color2
 .section3
 {
 	background: url(../img/gif1.gif) rgba(0,0,0,1);
-	box-shadow: inset 0 0 0 600px rgba(0 , 0, 0, 0.80);
+	box-shadow: inset 0 0 0 800px rgba(0 , 0, 0, 0.80);
 	background-attachment:fixed;
 	background-position:50% 50%;
     background-size: 1200px 1200px;
 	padding-top: 0px;
 	padding-bottom: 0px;
+	animation: animatedBackground 20s linear infinite;
 }
 
 .section3 .container
@@ -186,6 +187,7 @@ body .text-color2
 	background-size: 200px 200px;
 	padding-top: 0px;
 	padding-bottom: 0px;
+    animation: animatedBackground 30s linear infinite;
 }
 
 .section5 .container
