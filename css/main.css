@@ -63,7 +63,7 @@ body .text-color2  {
 
 @keyframes animatedBackground {
 	from { background-position: 0 0; }
-	to { background-position: 100% 0; }
+	to { background-position: 100% 100%; }
 }
 
 .section1 {
