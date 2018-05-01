@@ -5,15 +5,15 @@ body {
 	margin: 0px;
 	font-family: "Roboto",sans-serif;
 	font-size: 12px;
-	color:#d3d3d3 !important;
+	color:#f8f8f8 !important;
 }
 
 body .text-color1  {
-    color: #882565;
+    color: #f8f8f8;
 }
 
 body .text-color2  {
-    color: #C54D8D;
+    color: #f8f8f8;
 }
 
 .container {
@@ -110,7 +110,7 @@ body .text-color2  {
 .section2 h3#aboutus-title {
 	font-family: "Roboto", sans-serif;
 	font-size: 34px;
-	color: #626262 !important;
+	color: #848484 !important;
 	font-weight: 300;
 	margin-bottom: 40px;
 }
@@ -121,6 +121,22 @@ body .text-color2  {
 	font-family: "Roboto", sans-serif;
 	margin-bottom: 20px;
 	font-weight: 300;
+}
+
+.section2 h1 {
+	color: #848484;
+	font-size: 32px;
+	font-family: "Roboto", sans-serif;
+	margin-bottom: 20px;
+	font-weight: 500;
+}
+
+.section2 h3 {
+	color: #848484;
+	font-size: 24px;
+	font-family: "Roboto", sans-serif;
+	margin-bottom: 20px;
+	font-weight: 400;
 }
 
 .section3 {
@@ -401,6 +417,19 @@ body .text-color2  {
 	.navbar-nav {
 		background-color:#F8F8F8
 	}
+}
+
+
+/* ---- reset ---- */
+
+body {
+  margin: 0;
+  font:normal 90% Arial, Helvetica, sans-serif;
+}
+
+canvas {
+  display: block;
+  vertical-align: bottom;
 }
 
 /* Portrait tablet to landscape and desktop */
