@@ -4,7 +4,7 @@
 <svg version="1.1" id="Linkedin" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 128 128" enable-background="new 0 0 128 128" xml:space="preserve">
 <g>
-	<circle id="linkedin-back" fill="#929292" cx="64" cy="64" r="64"/>
+	<circle id="linkedin-back" fill="#000000" cx="64" cy="64" r="64"/>
 	<g id="linkedin-linkedin">
 		<path fill="#FFFFFF" d="M29.0752,51.7471h14.8686V99.54H29.0752V51.7471z M36.5137,27.9893c4.7514,0,8.6084,3.8593,8.6084,8.6137
 			c0,4.7554-3.857,8.6143-8.6084,8.6143c-4.7705,0-8.6172-3.8589-8.6172-8.6143C27.8965,31.8486,31.7432,27.9893,36.5137,27.9893"/>
